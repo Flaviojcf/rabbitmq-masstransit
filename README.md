@@ -1,1 +1,1 @@
-This project aims to implement RabbitMQ using the MassClient library.
+This project aims to implement RabbitMQ using the MassTransist library.
